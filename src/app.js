@@ -36,7 +36,7 @@ import {
 	isDialogVisible,
 	loadIsCompact,
 	onClickLink,
-	setFirstVisitDate,
+ 	setFirstVisitDate,
 	setIsCompact
 } from "./util/util.js";
 
